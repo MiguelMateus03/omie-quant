@@ -7,3 +7,5 @@ wheels/
 .venv
 data/
 .env
+.ipynb_checkpoints/
+.vscode/
